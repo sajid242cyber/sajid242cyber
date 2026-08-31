@@ -2,25 +2,18 @@
 
 # 👋 Hi, I'm ADIB
 
-### CSE Student | Python | AI/ML | Backend Development
+### CSE Student • Python • AI/ML • Backend Development
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+practical+software+solutions;Learning+AI%2C+ML+%26+Backend+Development;Turning+ideas+into+real+projects;Exploring+FastAPI+%26+REST+APIs;Code.+Learn.+Build.+Repeat."
-  alt="Typing SVG"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+practical+software+solutions;Learning+AI%2C+ML+%26+Backend+Development;Turning+ideas+into+real+projects;Code.+Learn.+Build.+Repeat." />
 
 <br>
 
 <a href="https://github.com/sajid242cyber">
-  <img src="https://img.shields.io/github/followers/sajid242cyber?label=Followers&style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/github/followers/sajid242cyber?label=Followers&style=for-the-badge&logo=github" />
 </a>
 
 <a href="https://github.com/sajid242cyber?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-Explore-blue?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/adib-mahamud-sajid-12ba26327/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/Repositories-Explore-blue?style=for-the-badge&logo=github" />
 </a>
 
 </div>
@@ -29,71 +22,80 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science student** passionate about building practical
-software, AI-powered solutions, and backend systems.
+I'm a **Computer Science student** passionate about building practical software,
+AI-powered solutions, and backend systems.
 
 - 🎓 CSE Student
-- 💻 Interested in **Python, AI/ML & Backend Development**
-- 🧠 Improving my **Machine Learning & Deep Learning** skills
-- ⚡ Exploring **FastAPI, REST APIs & NLP**
+- 🐍 Python Developer
+- 🤖 Interested in AI & Machine Learning
+- 🧠 Currently learning Deep Learning & NLP
+- ⚡ Exploring FastAPI & REST APIs
 - 🚀 Building projects to turn theory into practical experience
-- 🌱 Always learning and experimenting with new technologies
 - 📍 Bangladesh
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Programming
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c" />
+<p>
+<img src="https://skillicons.dev/icons?i=python,c" />
 </p>
 
 ### 🤖 AI / Machine Learning
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,jupyter" />
+<p>
+<img src="https://skillicons.dev/icons?i=python,jupyter" />
 </p>
 
-<p align="center">
-
-`Machine Learning` • `Deep Learning` • `NLP`
-
-</p>
+**Machine Learning • Deep Learning • NLP**
 
 ### ⚡ Backend & APIs
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi" />
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,python" />
 </p>
 
-<p align="center">
+**REST APIs • Backend Development**
 
-`REST APIs` • `Backend Development` • `API Design`
+### 🔧 Tools
 
-</p>
-
-### 🔧 Tools & Platforms
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
 ## 🚀 Currently Learning
 
-<div align="center">
+<table>
+<tr>
+<th>Technology</th>
+<th>Focus</th>
+</tr>
 
-| 🔥 Technology | 🎯 Focus |
-|:---:|:---|
-| ⚡ **FastAPI** | Backend & API Development |
-| 🤖 **Deep Learning** | Neural Networks & AI |
-| 🧠 **NLP** | Natural Language Processing |
-| 🔗 **REST APIs** | API Design & Integration |
+<tr>
+<td>⚡ FastAPI</td>
+<td>Backend & API Development</td>
+</tr>
 
-</div>
+<tr>
+<td>🤖 Deep Learning</td>
+<td>Neural Networks & AI</td>
+</tr>
+
+<tr>
+<td>🧠 NLP</td>
+<td>Natural Language Processing</td>
+</tr>
+
+<tr>
+<td>🔗 REST APIs</td>
+<td>API Design & Integration</td>
+</tr>
+
+</table>
 
 ---
 
@@ -101,15 +103,11 @@ software, AI-powered solutions, and backend systems.
 
 <div align="center">
 
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api?username=sajid242cyber&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"
-/>
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=sajid242cyber&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajid242cyber&layout=compact&theme=tokyonight&hide_border=true"
-/>
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajid242cyber&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -119,21 +117,17 @@ software, AI-powered solutions, and backend systems.
 
 <div align="center">
 
-<img
-  src="https://streak-stats.demolab.com?user=sajid242cyber&theme=tokyonight&hide_border=true"
-/>
+<img src="https://streak-stats.demolab.com?user=sajid242cyber&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img
-  src="https://github-profile-trophy.vercel.app/?username=sajid242cyber&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
-/>
+<img src="https://github-profile-trophy.vercel.app/?username=sajid242cyber&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
 
 </div>
 
@@ -143,51 +137,71 @@ software, AI-powered solutions, and backend systems.
 
 <div align="center">
 
+<table>
+<tr>
+
+<td width="50%">
+
 ### ❤️ CardioSense-AI
 
-**AI/ML based project focused on heart disease prediction.**
+AI/ML project focused on heart disease prediction.
 
-`Python` • `Machine Learning` • `Jupyter Notebook`
+**Python • Machine Learning • Jupyter**
 
 <a href="https://github.com/sajid242cyber/CardioSense-AI">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/View_Project-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
 </a>
 
----
+</td>
+
+<td width="50%">
 
 ### 🧮 Numerical Integration Calculator
 
-**Python-based project for solving numerical integration problems.**
+Python-based calculator for numerical integration problems.
 
-`Python`
+**Python**
 
 <a href="https://github.com/sajid242cyber/Numerical-Integration-Calculator">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/View_Project-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
 </a>
 
----
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
 
 ### 💻 Mini Expression Compiler
 
-**A mini compiler designed to process arithmetic expressions.**
+A mini compiler for processing arithmetic expressions.
 
-`C` • `Compiler Concepts`
+**C • Compiler Concepts**
 
 <a href="https://github.com/sajid242cyber/Mini-Expression-Compiler">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/View_Project-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
 </a>
 
----
+</td>
+
+<td width="50%">
 
 ### 🏠 AMS-ABASHION-UPDATE
 
-**Academic/project-based application built with modern web technologies.**
+Academic/project-based application built with modern web technologies.
 
-`TypeScript` • `Node.js`
+**TypeScript • Node.js**
 
 <a href="https://github.com/sajid242cyber/AMS-ABASHION-UPDATE">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/View_Project-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
 </a>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -197,9 +211,7 @@ software, AI-powered solutions, and backend systems.
 
 <div align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=sajid242cyber&theme=tokyo-night&hide_border=true&area=true"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sajid242cyber&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -209,22 +221,7 @@ software, AI-powered solutions, and backend systems.
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/sajid242cyber/sajid242cyber/output/github-contribution-grid-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/sajid242cyber/sajid242cyber/output/github-contribution-grid-snake.svg"
-  />
-
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/sajid242cyber/sajid242cyber/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+<img src="https://raw.githubusercontent.com/sajid242cyber/sajid242cyber/output/github-contribution-grid-snake.svg" />
 
 </div>
 
@@ -235,21 +232,15 @@ software, AI-powered solutions, and backend systems.
 <div align="center">
 
 <a href="https://www.linkedin.com/in/adib-mahamud-sajid-12ba26327/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-  />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:adib.mahamud.sajid@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-  />
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://github.com/sajid242cyber">
-  <img
-    src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
-  />
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -260,12 +251,10 @@ software, AI-powered solutions, and backend systems.
 
 ### 💡 Code. Learn. Build. Repeat.
 
-<img
-  src="https://komarev.com/ghpvc/?username=sajid242cyber&label=Profile%20Views&color=0e75b6&style=flat"
-/>
+<img src="https://komarev.com/ghpvc/?username=sajid242cyber&label=Profile%20Views&color=0e75b6&style=flat" />
 
 <br><br>
 
-⭐ **If you find my projects interesting, feel free to explore my repositories.**
+⭐ **Thanks for visiting my profile!**
 
 </div>
